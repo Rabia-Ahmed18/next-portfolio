@@ -1,6 +1,3 @@
-"use-client"
-
-
 import Image from "next/image";
 import Link from "next/link";
 import girl from "../../public/images/girl.png";
