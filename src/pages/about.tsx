@@ -1,4 +1,3 @@
-import Link from "next/link";
 
 export default function About() {
   return (
@@ -14,7 +13,7 @@ export default function About() {
             </div>
             <div className="moreAbout text-lg mt-4">
               {" "}
-              I'm Rabia, an aspiring web developer with a passion for creating
+              I am Rabia, an aspiring web developer with a passion for creating
               <br />
               interactive and user-friendly websites. I recently completed a
               course
