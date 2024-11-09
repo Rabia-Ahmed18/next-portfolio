@@ -1,3 +1,6 @@
+"use-client"
+
+
 import Image from "next/image";
 import Link from "next/link";
 import girl from "../../public/images/girl.png";
@@ -46,7 +49,7 @@ export default function Home() {
           <div className="main ml-10 mt-10">
             <div className="infoContainer bg-black p-8 rounded-lg shadow-lg flex ">
               <div className="devInfo">
-                <div className="hello text-4xl text-gray-300 ">Hi, I'm</div>
+                <div className="hello text-4xl text-gray-300 ">Hi, I am</div>
                 <div className="name text-6xl font-bold text-yellow-500">
                   Rabia Ahmed
                 </div>
@@ -55,7 +58,7 @@ export default function Home() {
                 </div>
                 <div className="moreAbout text-lg mt-4">
                   {" "}
-                  I'm Rabia, an aspiring web developer with a passion for
+                  I am Rabia, an aspiring web developer with a passion for
                   creating
                   <br />
                   interactive and user-friendly websites. I recently completed a
